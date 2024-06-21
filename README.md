@@ -1,0 +1,3 @@
+# DuckDB
+
+DuckDB é um sistema de banco de dados relacional orientado a colunas, projetado para ser rápido, leve e eficiente. Focado em OLAP (Online Analytical Processing), DuckDB é ideal para execução de consultas analíticas rápidas em grandes volumes de dados. Ele se integra facilmente com linguagens de programação como Python, R e C++, e pode ser embutido em aplicações, eliminando a necessidade de um servidor de banco de dados separado. Suportando uma ampla gama de operações SQL, DuckDB é otimizado para uso em laptops, servidores e ambientes de nuvem, facilitando a execução de consultas complexas diretamente na memória e proporcionando alta performance em análise de dados.

@@ -1,0 +1,5 @@
+default_profile = "nickvgs"
+[profiles.nickvgs]
+adapter = "duckdb"
+theme = "harlequin"
+limit = 100000
