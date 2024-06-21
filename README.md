@@ -7,7 +7,7 @@ DuckDB é um sistema de banco de dados relacional orientado a colunas, projetado
 
 Harlequin é uma IDE usada para conexão com diversos bancos de dados como DuckDB , SQLite, Postgres, MySQl, BigQuery e outros, ela pode ser implementada fácilmenete pelo pip, usando Python utilizada diretamente no terminal.
 
-
+```mermaid
 flowchart TD
     A[Criar ambiente virtual com pyenv] -->|Versão 3.12.1| B[Instalar dependências]
     B --> C[Pandas]
